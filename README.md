@@ -13,10 +13,10 @@
 
 
 # 运行
-> cd SpaWeb
-> dotnet restore
-> npm install
-> dotnet run
+1. cd SpaWeb
+2. dotnet restore
+3. npm install
+4. dotnet run
 
 # 更多内容请访问：
 http://www.wangziwen.vip/2017/11/04/aspnet-core-vuejs-kf01/
